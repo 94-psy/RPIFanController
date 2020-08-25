@@ -2,10 +2,4 @@
 
 Installation:
 
-`cd RPIFanController `
-
-`cp fan_ctrl.py ~/.fan_ctrl.py `
-
-`sudo cp fanctrl.service /lib/systemd/system `
-
-`sudo systemctl enable fanctrl.service `
+`wget https://raw.githubusercontent.com/94-psy/RPIFanController/master/install.sh | bash`
