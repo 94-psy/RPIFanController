@@ -8,8 +8,7 @@ The main fan is on pin 19, and the secondary are on pin 13.
 
 The fans must not be directly connected to RP pins, the configuration is designed for a single quadrant chopper with a NPN or a N-Channel mosfet:
 
-https://drive.google.com/file/d/1qwXAcExpfJhqLYp2xWYrLZPP6tSxoCwf/view?usp=sharing
-
+https://github.com/94-psy/RPIFanController/blob/master/chopper.png
 Installation:
 
 `wget https://raw.githubusercontent.com/94-psy/RPIFanController/master/install.sh | bash`
