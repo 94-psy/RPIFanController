@@ -10,6 +10,6 @@ The fans must not be directly connected to RP pins, the configuration is designe
 
 ![Chopper configuration](https://github.com/94-psy/RPIFanController/blob/master/chopper.png "Chopper configuration")
 
-Installation:
+## Installation:
 
 `wget https://raw.githubusercontent.com/94-psy/RPIFanController/master/install.sh | bash`
