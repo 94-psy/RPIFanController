@@ -1,6 +1,6 @@
 # RPIFanController
 
-## Multiple fann controller
+## Multiple fan controller
 
 This tool try to provide a two channel fan controller based on pin 13 and 19. It works with a 100Hz PWM signal (still using SW PWM and more than 8kHz is harder to go, so i decided to sacrify fan efficiency for lower fan noise). For the moment the channel are in parallel, but in future will be more indipendent.
 
