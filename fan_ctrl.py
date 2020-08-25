@@ -9,8 +9,8 @@ import sys
 FAN1_PIN = 19  # BCM pin used to drive transistor's base
 FAN2_PIN = 13 #Secondary fan
 WAIT_TIME = 1  # [s] Time to wait between each refresh
-FAN_MIN = 20  # [%] Fan minimum speed.
-PWM_FREQ = 25  # [Hz] Change this value if fan has strange behavior
+FAN_MIN = 10  # [%] Fan minimum speed.
+PWM_FREQ = 100  # [Hz] Change this value if fan has strange behavior
 
 # Configurable temperature and fan speed steps
 tempSteps = [30, 65]  # [°C]
