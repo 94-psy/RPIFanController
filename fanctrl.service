@@ -5,7 +5,7 @@ After=mediacenter.service
 [Service]
 Type=simple
 User=root
-ExecStart= /usr/bin/python /home/pi/.fan_ctrl.py
+ExecStart= /usr/bin/python /home/pi/.FanController.py
 Restart=always
 
 [Install]
