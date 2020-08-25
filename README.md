@@ -12,4 +12,6 @@ The fans must not be directly connected to RP pins, the configuration is designe
 
 ## Installation:
 
-`wget https://raw.githubusercontent.com/94-psy/RPIFanController/master/install.sh && chmod +x install.sh && ./install.sh && rm install.sh `
+`wget https://raw.githubusercontent.com/94-psy/RPIFanController/master/install.sh && chmod +x install.sh && ./install.sh && rm install.sh`
+Or
+`curl -L https://raw.githubusercontent.com/94-psy/RPIFanController/master/install.sh | bash`
